@@ -1,7 +1,7 @@
 name,parent,value
 casc,,
-sample1,SE,2012
-sample2,AE,2013
-Sample3,EE,2012
-Sample4,CE,2013
-Sample5,LE,2014
+sample1,casc,2012
+sample2,casc,2013
+Sample3,casc,2012
+Sample4,casc,2013
+Sample5,casc,2014
